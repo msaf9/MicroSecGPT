@@ -12,10 +12,18 @@ Microservices represent a distributed architectural pattern utilized for designi
 - [License](#license)
 
 ## Introduction
+Microservices represent a distributed architectural pattern utilized for designing and developing services or APIs, facilitating secure communication between clients and servers. Despite the availability of several distributed architectures, mi- croservices stand out for their scalability and loose coupling, enhancing resource management and utilization efficiency. How- ever, as applications expand, various challenges arise that hinder effective communication between different services, potentially exposing vulnerabilities that malicious actors could exploit. This research aims to identify and address security issues inherent in microservices architecture, focusing on specific challenges such as authentication, authorization, and data integrity. It proposes a comprehensive model for verifying the architecture’s robustness, leveraging advanced verification mechanisms to assess and enhance system integrity.
+
+Innovatively, this study introduces a novel approach to ad- dressing security concerns within a microservices architecture. By developing a suite of APIs that interact with the ChatGPT Service, the research integrates generative AI techniques to conduct a comprehensive security analysis. These APIs facilitate dynamic analysis of dependencies, perform static code analysis, conduct code reviews, and document code readability, providing a multi-dimensional assessment of the system’s security posture. Moreover, leveraging AI enables not only the identification of vulnerabilities but also the generation of tailored solutions to enhance system resilience. By employing generative AI in the security analysis process, this research pioneers a proactive approach to microservices security, offering actionable insights to fortify distributed systems against emerging threats.
 
 ## Technologies
+- Spring Boot
+- Java
+- Gradle
+- ChatGPT API
 
 ## Project status
+**Complete**
 
 ## Installation
 
