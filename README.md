@@ -5,6 +5,7 @@ Microservices represent a distributed architectural pattern utilized for designi
 <h2>Table of contents</h2>
 
 - [Introduction](#introduction)
+    - [Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key](#architecture-diagram-of-spring-boot-application-integrating-with-chatgpt-service-via-api-key)
 - [Technologies](#technologies)
 - [Project status](#project-status)
 - [Installation](#installation)
