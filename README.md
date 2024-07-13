@@ -16,6 +16,10 @@ Microservices represent a distributed architectural pattern utilized for designi
 
 Innovatively, this study introduces a novel approach to ad- dressing security concerns within a microservices architecture. By developing a suite of APIs that interact with the ChatGPT Service, the research integrates generative AI techniques to conduct a comprehensive security analysis. These APIs facilitate dynamic analysis of dependencies, perform static code analysis, conduct code reviews, and document code readability, providing a multi-dimensional assessment of the system’s security posture. Moreover, leveraging AI enables not only the identification of vulnerabilities but also the generation of tailored solutions to enhance system resilience. By employing generative AI in the security analysis process, this research pioneers a proactive approach to microservices security, offering actionable insights to fortify distributed systems against emerging threats.
 
+### Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key
+
+![Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key](src/main/resources/ResearchProject.png "Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key")
+
 ## Technologies
 - Spring Boot
 - Java
