@@ -25,7 +25,7 @@ Innovatively, this study introduces a novel approach to ad- dressing security co
 - Spring Boot
 - Java
 - Gradle
-- ChatGPT API
+- [ChatGPT API](https://platform.openai.com/docs/api-reference/introduction)
 
 ## Project status
 **Complete**
