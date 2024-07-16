@@ -21,6 +21,10 @@ Innovatively, this study introduces a novel approach to ad- dressing security co
 
 ![Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key](src/main/resources/ResearchProject.png "Architecture Diagram of Spring Boot Application Integrating with ChatGPT Service via API Key")
 
+### Research Paper
+
+[Verification and Potential Security Issues in Microservices](#verification-and-potential-security-issues-in-microservices)
+
 ## Technologies
 - Spring Boot
 - Java
