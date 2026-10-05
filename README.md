@@ -38,8 +38,8 @@ Innovatively, this study introduces a novel approach to ad- dressing security co
 
 ### Get repository
 ```git
-git https://github.com/msaf9/verification-and-potential-security-issues-in-microservices.git
-cd verification-and-potential-security-issues-in-microservices
+git https://github.com/msaf9/MicroSecGPT.git
+cd MicroSecGPT
 ```
 
 ## License
